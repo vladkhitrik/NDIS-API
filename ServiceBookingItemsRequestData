@@ -1,0 +1,28 @@
+[
+        {
+        "name":"product_category",
+            "type": "string",
+            "description": "participant Support Budget",
+            "maxLength": 80,
+            "example": "ASSISTIVE_TECHNOLOGY"
+        },
+       {
+       "name":"product_category_item",
+            "type": "string",
+            "description": "Product Category Item Number",
+            "maxLength": 40,
+            "example": "05_220627230_0122_1_2"
+        },
+        {
+        "name":"quantity",
+            "type": "string",
+            "description": "quantity",
+            "example": "1"
+        },
+        {
+        "name":"per_unit_price",
+            "type": "string",
+            "description": "Per Unit Price",
+            "example": "0.1"
+        }
+    ]
