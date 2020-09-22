@@ -1,0 +1,48 @@
+[
+        {
+        "name":"participant",
+            "type": "string",
+            "description": "participant Number",
+            "maxLength": 10,
+            "example": "430000000"
+        },
+        {
+        "name":"participant_surname",
+            "type": "string",
+            "description": "participant Surname",
+            "maxLength": 80,
+            "example": "Test"
+        },
+        {
+        "name":"date_of_birth",
+            "type": "string",
+            "description": "participant Date Of Birth",
+            "example": "YYYYMMDD"
+        },
+        {
+        "name":"booking_type",
+            "type": "string",
+            "description": "Service Booking Type",
+            "maxLength": 4,
+            "example": "ZSAG"
+        },
+        {
+        "name":"start_date",
+            "type": "string",
+            "description": "Service Booking Start Date",
+            "example": "YYYYMMDD"
+        },
+        {
+        "name":"end_date",
+            "type": "string",
+            "description": "Service Booking End Date",
+            "example": "YYYYMMDD"
+        },
+        {
+        "name":"participant_plan_id",
+            "type": "string",
+            "description": "Valid Active Plan Id",
+            "maxLength": 10,
+            "example": "0001027034"
+        }
+    ]
