@@ -1,68 +1,66 @@
-{
-    "properties": {
-        "ref_doc_no": {
+[
+        {
+          "name": "ref_doc_no",
             "type": "string",
             "example": "ABCD1234",
             "maxLength": 50
         },
-        "service_agreement": {
+        {
+          "name": "service_agreement",
             "type": "string",
             "maxLength": 10
         },
-        "product_category_item": {
+        {
+          "name":"product_category_item",
             "type": "string",
             "maxLength": 40
         },
-        "product_category": {
+        {
+          "name":"product_category",
             "type": "string",
             "maxLength": 80
         },
-        "participant": {
+        {
+          "name":"participant",
             "type": "string",
             "maxLength": 10
         },
-        "claimed_amount": {
+        {
+          "name":"claimed_amount",
             "type": "string"
         },
-        "quantity": {
+        {
+          "name":"quantity",
             "type": "string"
         },
-        "tax_code": {
+        {
+          "name":"tax_code",
             "type": "string",
             "maxLength": 2
         },
-        "claim_type": {
+        {
+          "name":"claim_type",
             "type": "string",
             "maxLength": 4
         },
-        "claim_reason": {
+        {
+          "name":"claim_reason",
             "type": "string",
             "maxLength": 4
         },
-        "start_date": {
+        {
+          "name":"start_date",
             "type": "string",
             "example": "YYYYMMDD"
         },
-        "end_date": {
+        {
+          "name":"end_date",
             "type": "string",
             "example": "YYYYMMDD"
         },
-        "unit_of_measure": {
+        {
+          "name":"unit_of_measure",
             "type": "string",
             "maxLength": 3
         }
-    },
-    "additionalProperties": true,
-    "required": [
-        "product_category",
-        "quantity",
-        "tax_code",
-        "service_agreement",
-        "product_category_item",
-        "end_date",
-        "start_date",
-        "ref_doc_no",
-        "participant",
-        "claimed_amount"
     ]
-}
