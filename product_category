@@ -1,0 +1,62 @@
+[
+        {
+            "key": "ASSISTIVE_TECHNOLOGY",
+            "value": "Assistive Technology"
+        },
+        {
+            "key": "CB_CHOICE_CONTROL",
+            "value": "CB Choice & Control"
+        },
+        {
+            "key": "CB_DAILY_ACTIVITY",
+            "value": "CB Daily Activity"
+        },
+        {
+            "key": "CB_EMPLOYMENT",
+            "value": "CB Employment"
+        },
+        {
+            "key": "CB_HEALTH_WELLBEING",
+            "value": "CB Health & Wellbeing"
+        },
+        {
+            "key": "CB_HOME_LIVING",
+            "value": "CB Home Living"
+        },
+        {
+            "key": "CB_LIFELONG_LEARNING",
+            "value": "CB Lifelong Learning"
+        },
+        {
+            "key": "CB_RELATIONSHIPS",
+            "value": "CB Relationships"
+        },
+        {
+            "key": "CB_SOCIAL_COMMUNITY_CIVIC",
+            "value": "CB Social, Community, Civic"
+        },
+        {
+            "key": "CONSUMABLES",
+            "value": "Consumables"
+        },
+        {
+            "key": "DAILY_ACTIVITIES",
+            "value": "Daily Activities"
+        },
+        {
+            "key": "HOME_MODIFICATIONS",
+            "value": "Home Modifications"
+        },
+        {
+            "key": "SOCIAL_COMMUNITY_CIVIC",
+            "value": "Social,Community and Civic Participation"
+        },
+        {
+            "key": "SUPPORT_COORDINATION",
+            "value": "Support Coordination"
+        },
+        {
+            "key": "TRANSPORT",
+            "value": "Transport"
+        }
+    ]
